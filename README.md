@@ -15,3 +15,6 @@ In this image show filter by city.
 
 The UFOs page shows the full use of the filter .
 ![image](https://github.com/Thaofeeqat/UFOs/blob/main/static/images/full%20search.png)
+
+# SUMMARY
+The UFOs html page looks good and functioning well but it is case sensitive for both letters and figures.
