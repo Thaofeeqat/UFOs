@@ -7,4 +7,5 @@ This analysis is carried out to provide a more in-depth analysis of UFO sighting
 Here is a full screen of what the html below 
 ![image](https://github.com/Thaofeeqat/UFOs/blob/main/static/images/Full.png)
 
-
+  In the image the search filter is being used on date.
+![image](https://github.com/Thaofeeqat/UFOs/blob/main/static/images/Search.png)
